@@ -1,6 +1,3 @@
-# 9103-major-project-personal-functioning-prototype-
-9103 major project —— personal functioning prototype 
-
 # Project: Wheels of Fortune - Interactive Dandelion Bloom
 
 ## How to Interact with the Artwork
@@ -37,10 +34,11 @@ This approach is distinct from other potential animations (e.g., changing colors
 My primary inspiration for this interactive animation came from the **dandelion flower's lifecycle**—specifically, the moment its seeds are dispersed by wind. The idea was to take the robust, colorful "wheels" of Pacita Abad and give them a delicate, ephemeral quality, as if they could be "blown away" and then "re-collected."
 
 * **Dandelion Dispersal:** The visual effect of particles scattering outwards and then fading away is directly inspired by time-lapse videos of dandelions releasing their seeds. I aimed to capture the organic, slightly unpredictable movement of these tiny elements.
-![An image of Dispersed particles](readmeImages/Wind blowing dandelions.jpg) 
+![Wind blowing dandelions](readmeImages/Wind blowing dandelions.jpg)
+
 
 The "restoration" aspect, where particles return, draws inspiration from concepts of **rewinding or regeneration in digital art and animation**, aiming to provide a satisfying visual "undo" that also echoes natural cyclical processes. 
-![An image of Dispersed particles](readmeImages/Dispersed particles.jpg) 
+![Dispersed particles](readmeImages/Dispersed particles.jpg) 
 
 ---
 
