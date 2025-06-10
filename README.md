@@ -67,7 +67,24 @@ My code builds upon the group's static image generation by introducing several i
 
 **References:**
 
-* **p5.js Documentation:** All core drawing functions (`circle()`, `line()`, `fill()`, `stroke()`, `translate()`, `rotate()`, etc.) and utility functions (`random()`, `dist()`, `map()`, `lerp()`, `atan2()`, `cos()`, `sin()`, `TWO_PI`, `millis()`, `constrain()`) are from the p5.js library, which we set up in **Week 6**.
+* **p5.js Documentation:** All core drawing functions (`circle()`, `line()`, `fill()`, `stroke()`, `translate()`, `rotate()`, etc.) and utility functions (`random()`, `dist()`, `map()`, `lerp()`, `atan2()`, `cos()`, `sin()`, `TWO_PI`, `millis()`, `constrain()`) are from the p5.js library, which we set up in **Week 6**. 
+
+https://p5js.org/reference/p5/rotate/
+
+https://p5js.org/reference/p5/dist/
+
+https://p5js.org/examples/calculating-values-map/
+
+https://p5js.org/reference/p5/lerp/ 
+
+https://p5js.org/reference/p5/atan2/
+
+https://p5js.org/reference/p5/TWO_PI/
+
+https://p5js.org/reference/p5/millis/
+
+
+
 * **Object-Oriented Programming (OOP):** The use of `class Wheel` and `class DandelionParticle` directly applies concepts taught in **Week 7**, encapsulating properties and behaviors for better code organization and reusability.
 * **Responsive Design:** The `windowResized()` function, as covered in **Week 9**, ensures the canvas adapts to different screen sizes, and `initializeArtwork()` is called again to re-layout the wheels appropriately.
 
